@@ -1,5 +1,3 @@
-# malaria-trend-analysis
-
 # Malaria Case Trends Analysis (2020–2022)
 
 ## Project Overview
@@ -9,14 +7,19 @@ This project analyzes 507 anonymized malaria patient records from Hope Hill Hosp
 ## Objectives
 
 • Examine 3-year malaria testing outcomes to identify broader prevalence trends.
+
 • Track monthly and yearly variations in case volume.
+
 • Evaluate diagnostic patterns across age brackets and gender groups.
+
 • Transform raw healthcare records into clear PivotTables and dynamic visualizations.
 
 ## Tools Used
 
 • Microsoft Excel — data cleaning, pivot tables, statistical analysis
+
 • Tableau — interactive dashboard and data visualization
+
 • Exploratory Data Analysis (EDA)
 
 ## Dataset
